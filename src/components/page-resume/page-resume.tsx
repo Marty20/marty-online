@@ -59,7 +59,7 @@ export class PageResume {
                             </ion-button>
                           </div>
                           <div class="grow">
-                            <ion-button href="https://github.com/smarty02" color="light">
+                            <ion-button href="https://github.com/marty20" color="light">
                               <ion-icon class="custom-icon" size="medium" name="logo-github" />
                             </ion-button>
                           </div>
