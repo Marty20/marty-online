@@ -15,15 +15,6 @@ A personal PWA using Ionic and Stencil.
 * Service Worker, App manifest, iOS meta tags
 * Theming using CSS variables
 
-## Getting Started
-
-To start building, clone this repo to a new directory:
-
-```bash
-npm init stencil ionic-pwa
-```
-
-
 ## Production
 
 To build for production, run:
