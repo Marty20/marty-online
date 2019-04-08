@@ -1,0 +1,26 @@
+.dot {
+  height: 16px;
+  width: 16px;
+  background-color: #af594f;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.empty-dot {
+  height: 16px;
+  width: 16px;
+  background-color: #d7d8da;
+  border-color: #af594f;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.skill {
+  color: #f5f6f9;
+}

@@ -1,0 +1,17 @@
+.custom-tab-bar {
+  --background: #af594f !important;
+}
+
+.icon-grow {
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateZ(0) scale(1, 1);
+  -moz-backface-visibility: hidden;
+  -moz-transform: translateZ(0) scale(1, 1);
+  -ms-backface-visibility: hidden;
+  -ms-transform: translateZ(0) scale(1, 1);
+  transition: all 0.2s ease-in-out;
+}
+
+.icon-grow:active {
+  transform: scale(1.9) perspective(1px);
+}

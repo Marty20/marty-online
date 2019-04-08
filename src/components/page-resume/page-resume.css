@@ -1,0 +1,56 @@
+hr {
+  background-color: #f2f2f2 !important;
+  opacity: .5;
+  width: 100% !important;
+}
+
+ion-card-title {
+  color: #ffffff;
+}
+
+.custom-icon {
+  color: #af594f;
+}
+
+.grow { 
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateZ(0) scale(1.0, 1.0);
+  -moz-backface-visibility: hidden;
+  -moz-transform: translateZ(0) scale(1.0, 1.0);
+  -ms-backface-visibility: hidden;
+  -ms-transform: translateZ(0) scale(1.0, 1.0);
+  transition: all .2s ease-in-out; 
+}
+.grow:hover { 
+  transform: scale(1.1) perspective(1px)
+}
+
+.custom-card {
+    background-color: #af594f;
+}
+
+.card-bio {
+  color: #ffffff;
+  font-size: 10px;
+}
+
+.personal-info {
+  color: #ffffff;
+}
+
+strong {
+  color: #f5f6f9;
+}
+
+li {
+  color: #f5f6f9;
+}
+
+i {
+  color: #f5f6f9;
+}
+
+.personal-info-name {
+  color: #ffffff;
+  font-size: 24px !important;
+}
