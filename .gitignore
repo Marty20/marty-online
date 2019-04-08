@@ -13,6 +13,7 @@ log.txt
 *.sublime-workspace
 
 .firebaserc
+.editorconfig
 .stencil/
 .idea/
 .vscode/
